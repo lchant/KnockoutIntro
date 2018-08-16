@@ -1,7 +1,7 @@
 ﻿/// <reference path="knockout-3.4.2.debug.js" />
-function initialViewModel() {
+function InitialViewModel() {
     var viewModel = {
-        firstName: ko.observable("Lee")
+        firstName: ko.observable("Clive")
     };
     ko.applyBindings(viewModel);
 }

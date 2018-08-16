@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnockoutIntro", "KnockoutIntro\KnockoutIntro.csproj", "{07D326C5-0A9C-428B-85B3-0D333A3DE017}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnockoutIntro.Test", "KnockoutIntro.Test\KnockoutIntro.Test.csproj", "{CAF07508-2D46-4FAF-A452-60D87F2C256D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnockoutIntro.Test", "KnockoutIntro.Test\KnockoutIntro.Test.csproj", "{FBC4A077-21D1-4828-8ADE-B1874102ABCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{07D326C5-0A9C-428B-85B3-0D333A3DE017}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07D326C5-0A9C-428B-85B3-0D333A3DE017}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07D326C5-0A9C-428B-85B3-0D333A3DE017}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CAF07508-2D46-4FAF-A452-60D87F2C256D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CAF07508-2D46-4FAF-A452-60D87F2C256D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CAF07508-2D46-4FAF-A452-60D87F2C256D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CAF07508-2D46-4FAF-A452-60D87F2C256D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC4A077-21D1-4828-8ADE-B1874102ABCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC4A077-21D1-4828-8ADE-B1874102ABCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC4A077-21D1-4828-8ADE-B1874102ABCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC4A077-21D1-4828-8ADE-B1874102ABCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
