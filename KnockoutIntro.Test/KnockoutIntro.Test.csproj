@@ -68,17 +68,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="..\KnockoutIntro\Scripts\home.js">
-      <Link>home.js</Link>
-    </Content>
-    <Content Include="Content\jasmine\jasmine.css" />
-    <Content Include="Content\jasmine\jasmine_favicon.png" />
-    <Content Include="SpecRunner.html" />
-    <Content Include="Tests\home.test.js" />
-    <Content Include="Scripts\jasmine\boot.js" />
-    <Content Include="Scripts\jasmine\console.js" />
-    <Content Include="Scripts\jasmine\jasmine-html.js" />
-    <Content Include="Scripts\jasmine\jasmine.js" />
+    <Content Include="tests\lib\jasmine\jasmine.css" />
+    <Content Include="tests\lib\jasmine\jasmine_favicon.png" />
+    <Content Include="tests\SpecRunner.html" />
+    <Content Include="tests\home.tests.js" />
+    <Content Include="tests\lib\jasmine\boot.js" />
+    <Content Include="tests\lib\jasmine\console.js" />
+    <Content Include="tests\lib\jasmine\jasmine-html.js" />
+    <Content Include="tests\lib\jasmine\jasmine.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

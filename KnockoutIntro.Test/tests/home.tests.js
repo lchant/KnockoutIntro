@@ -1,4 +1,5 @@
-﻿/// <reference path="../scripts/jasmine/jasmine.js" />
+﻿/// <reference path="../../knockoutintro/scripts/home.js" />
+/// <reference path="lib/jasmine/jasmine.js" />
 describe('Check first name', function() {
     var testModel;
 
